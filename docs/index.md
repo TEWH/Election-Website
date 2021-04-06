@@ -1,4 +1,4 @@
-# <div align="center">TEWH Elections</div>
+# <div align="center">TEWH Elections.</div>
 ## <div align="center">President Candidates</div>
 ### <div align="center">Candidate 1</div>
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
