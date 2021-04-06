@@ -1,7 +1,7 @@
 # TEWH Elections
 ## President Candidates
 
-[![Alternate Text]({https://github.com/TEWH/TEWH-Election-Website/blob/main/Photos/dark%20globe.png})]({https://youtu.be/WEcx6IOqV84} "Link Title")
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1617737499/video_to_markdown/images/youtube--WEcx6IOqV84-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/WEcx6IOqV84 "")
 
 ## Vice President Internal Candidates
 
