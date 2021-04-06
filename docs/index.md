@@ -1,7 +1,7 @@
 # TEWH Elections
 ## President Candidates
 
-[![IMAGE ALT TEXT HERE =100x200](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/WEcx6IOqV84)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/WEcx6IOqV84/0.jpg =100x200)](https://youtu.be/WEcx6IOqV84)
 
 ## Vice President Internal Candidates
 
