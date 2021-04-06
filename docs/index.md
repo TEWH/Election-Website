@@ -1,4 +1,7 @@
-# TEWH Elections
+<p align="center">
+    # TEWH Elections
+</p>
+
 ## President Candidates
 ### Candidate 1
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
