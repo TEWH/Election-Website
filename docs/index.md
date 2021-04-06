@@ -1,17 +1,17 @@
-# <div align="center">TEWH Elections.</div>
-## <div align="center">President Candidates</div>
-### <div align="center">Candidate 1</div>
+# TEWH Elections
+## President Candidates
+### Candidate 1
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
-### <div align="center">Candidate 2</div>
+### Candidate 2
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
 ## Vice President Internal Candidates
-### <div align="center">Candidate 1</div>
+### Candidate 1
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
-### <div align="center">Candidate 2</div>
+### Candidate 2
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
 ## Vice President External Candidates
-### <div align="center">Candidate 1</div>
+### Candidate 1
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
-### <div align="center">Candidate 2</div>
+### Candidate 2
 [![Hornraiser](https://i.ytimg.com/vi/WEcx6IOqV84/maxresdefault.jpg)](https://youtu.be/WEcx6IOqV84 "Hornraiser")
 
