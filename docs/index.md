@@ -2,7 +2,7 @@
 ## President Candidates
 ### Alaukik Gupta
 [![Alaukik Gupta's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767377/video_to_markdown/images/youtube--TVtqFz3L4ug-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TVtqFz3L4ug "Alaukik Gupta's Officer Video")
-### Jennifer Zhou
+### Jen Zhou
 [![Jen Zhou's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617766545/video_to_markdown/images/youtube--PpcXz-rWC6k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PpcXz-rWC6k "Jen Zhou's Officer Video")
 
 ## Vice President Internal Candidates
