@@ -6,10 +6,10 @@
 [![Jen Zhou's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617807692/video_to_markdown/images/youtube--zmBVwWXNMhk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zmBVwWXNMhk "Jen Zhou's Officer Video")
 
 ## Vice President Internal Candidates
-### Nethra Venkatayogi
-[![Nethra Venkatayogi's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767647/video_to_markdown/images/youtube--SYs8ZjqjgSg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/SYs8ZjqjgSg "Nethra Venkatayogi's Officer Video")
 ### Jen Zhou
 [![Jen Zhou's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617766545/video_to_markdown/images/youtube--PpcXz-rWC6k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PpcXz-rWC6k "Jen Zhou's Officer Video")
+### Nethra Venkatayogi
+[![Nethra Venkatayogi's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767647/video_to_markdown/images/youtube--SYs8ZjqjgSg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/SYs8ZjqjgSg "Nethra Venkatayogi's Officer Video")
 
 ## Vice President External Candidates
 ### Aditi Merchant
