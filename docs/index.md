@@ -11,7 +11,7 @@
 ### Athulya Nagarajan
 [![Athulya's Officer Video](https://i.ytimg.com/vi/HMJ-IVSJ6bc/maxresdefault.jpg)](https://youtu.be/HMJ-IVSJ6bc "Athulya's Officer Video")
 ### Jennifer Zhou
-[![Jennifer's Officer Video](https://i.ytimg.com/vi/Tdf3jJdNwqM/maxresdefault.jpg)](https://youtu.be/Tdf3jJdNwqM "Jennifer's Officer Video")
+[![Jennifer's Officer Video](https://i.ytimg.com/vi/Tdf3jJdNwqM/hqdefault.jpg)](https://youtu.be/Tdf3jJdNwqM "Jennifer's Officer Video")
 
 ## Treasurer Candidates
 ### Matthew De Guzman
