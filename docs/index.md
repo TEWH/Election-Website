@@ -1,32 +1,32 @@
 # TEWH Elections
 ## Corporate Relations Candidates
 ### Aditi Merchant
-[![Alaukik Gupta's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767377/video_to_markdown/images/youtube--TVtqFz3L4ug-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/TVtqFz3L4ug "Alaukik Gupta's Officer Video")
+[![Aditi's Officer Video](https://i.ytimg.com/vi/d1uLn0_4FQg/maxresdefault.jpg)](https://youtu.be/d1uLn0_4FQg "Aditi's Officer Video")
 ### Anna Stankes
-[![Jen Zhou's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617807692/video_to_markdown/images/youtube--zmBVwWXNMhk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/zmBVwWXNMhk "Jen Zhou's Officer Video")
+[![Anna's Officer Video](https://i.ytimg.com/vi/lYYNlKXSdSk/maxresdefault.jpg)](https://youtu.be/lYYNlKXSdSk "Anna's Officer Video")
 
 ## Fundraising Coordinator Candidates
 ### Anna Stankes
-[![Nethra Venkatayogi's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767647/video_to_markdown/images/youtube--SYs8ZjqjgSg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/SYs8ZjqjgSg "Nethra Venkatayogi's Officer Video")
+[![Anna's Officer Video](https://i.ytimg.com/vi/LqUAEbZHRwo/maxresdefault.jpg)](https://youtu.be/LqUAEbZHRwo "Anna's Officer Video")
 ### Athulya Nagarajan
-[![Nethra Venkatayogi's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767647/video_to_markdown/images/youtube--SYs8ZjqjgSg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/SYs8ZjqjgSg "Nethra Venkatayogi's Officer Video")
-### Jen Zhou
-[![Jen Zhou's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617766545/video_to_markdown/images/youtube--PpcXz-rWC6k-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/PpcXz-rWC6k "Jen Zhou's Officer Video")
+[![Athulya's Officer Video](https://i.ytimg.com/vi/HMJ-IVSJ6bc/maxresdefault.jpg)](https://youtu.be/HMJ-IVSJ6bc "Athulya's Officer Video")
+### Jennifer Zhou
+[![Jennifer's Officer Video](https://i.ytimg.com/vi/Tdf3jJdNwqM/maxresdefault.jpg)](https://youtu.be/Tdf3jJdNwqM "Jennifer's Officer Video")
 
 ## Treasurer Candidates
 ### Matthew De Guzman
-[![Aditi Merchant's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767802/video_to_markdown/images/youtube--HAazQKgzYxk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HAazQKgzYxk "Aditi Merchant's Officer Video")
+[![Matthew's Officer Video](https://i.ytimg.com/vi/T5AXq1J3qfk/maxresdefault.jpg)](https://youtu.be/T5AXq1J3qfk "Matthew's Officer Video")
 
 ## Secretary Candidates
 ### Anna Stankes
-[![Aditi Merchant's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767802/video_to_markdown/images/youtube--HAazQKgzYxk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HAazQKgzYxk "Aditi Merchant's Officer Video")
+[![Anna's Officer Video](https://i.ytimg.com/vi/od8kdszRM88/maxresdefault.jpg)](https://youtu.be/od8kdszRM88 "Anna's Officer Video")
 ### Athulya Nagarajan
-[![Sruja Arya's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767865/video_to_markdown/images/youtube--58wlk7H8YNg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/58wlk7H8YNg "Sruja Arya's Officer Video")
+[![Athulya's Officer Video](https://i.ytimg.com/vi/_viymzFVl5E/maxresdefault.jpg)](https://youtu.be/_viymzFVl5E "Athulya's Officer Video")
 ### Maanas Gupta
-[![Sruja Arya's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767865/video_to_markdown/images/youtube--58wlk7H8YNg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/58wlk7H8YNg "Sruja Arya's Officer Video")
+[![Maanas' Officer Video](https://i.ytimg.com/vi/qJzsirCkQXg/maxresdefault.jpg)](https://youtu.be/qJzsirCkQXg "Maanas' Officer Video")
 
 ## Public Relations Candidates
 ### Conrad Li
-[![Aditi Merchant's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767802/video_to_markdown/images/youtube--HAazQKgzYxk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HAazQKgzYxk "Aditi Merchant's Officer Video")
+[![Conrad's Officer Video](https://i.ytimg.com/vi/obekab7FFjs/maxresdefault.jpg)](https://youtu.be/obekab7FFjs "Conrad's Officer Video")
 ### Maanas Gupta
-[![Sruja Arya's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767865/video_to_markdown/images/youtube--58wlk7H8YNg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/58wlk7H8YNg "Sruja Arya's Officer Video")
+[![Maanas' Officer Video](https://i.ytimg.com/vi/6B_nNquz5gs/maxresdefault.jpg)](https://youtu.be/6B_nNquz5gs "Maanas' Officer Video")
