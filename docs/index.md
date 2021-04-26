@@ -17,7 +17,7 @@
 ### Matthew De Guzman
 [![Aditi Merchant's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767802/video_to_markdown/images/youtube--HAazQKgzYxk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HAazQKgzYxk "Aditi Merchant's Officer Video")
 
-## Secertary Candidates
+## Secretary Candidates
 ### Anna Stankes
 [![Aditi Merchant's Officer Video](https://res.cloudinary.com/marcomontalbano/image/upload/v1617767802/video_to_markdown/images/youtube--HAazQKgzYxk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/HAazQKgzYxk "Aditi Merchant's Officer Video")
 ### Athulya Nagarajan
